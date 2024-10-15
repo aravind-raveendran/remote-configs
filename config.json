@@ -8,10 +8,10 @@
     "logLevelWebRTC": "debug",
     "logLevelSdk": "debug",
     "logLevelWebSocket": "off",
-    "urls": [
-        "dolbyio://WPjGFd/vpu2",
-        "dolbyio://WPjGFd/vpu2",
-        "dolbyio://WPjGFd/vpu2",
-        "dolbyio://WPjGFd/vpu2"
+    "url": [
+        "dolbyio://k9mWad/multiview",
+        "dolbyio://k9mWad/multiview",
+        "dolbyio://k9mWad/multiview",
+        "dolbyio://k9mWad/multiview"
     ]
 }
