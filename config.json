@@ -9,9 +9,9 @@
     "logLevelSdk": "debug",
     "logLevelWebSocket": "off",
     "url": [
-        "dolbyio://k9mWad/multiview",
-        "dolbyio://k9mWad/multiview",
-        "dolbyio://k9mWad/multiview",
-        "dolbyio://k9mWad/multiview"
+        "dolbyio://k9Mwad/multiview",
+        "dolbyio://k9Mwad/multiview",
+        "dolbyio://k9Mwad/multiview",
+        "dolbyio://k9Mwad/multiview"
     ]
 }
