@@ -1,0 +1,17 @@
+{
+    "name": "13",
+    "desc": "Quad Split Channel",
+    "forcePlayoutDelayMin": 0,
+    "forcePlayoutDelayMax": 500,
+    "jitterBufferDelay": 0,
+    "forceSmooth": false,
+    "logLevelWebRTC": "debug",
+    "logLevelSdk": "debug",
+    "logLevelWebSocket": "off",
+    "urls": [
+        "dolbyio://WPjGFd/vpu2",
+        "dolbyio://WPjGFd/vpu2",
+        "dolbyio://WPjGFd/vpu2",
+        "dolbyio://WPjGFd/vpu2"
+    ]
+}
