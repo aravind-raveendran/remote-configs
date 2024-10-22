@@ -1,0 +1,10 @@
+{
+  "name": "15",
+  "desc": "Quad Split Channel",
+  "url": [
+    "dolbyio://sjf6bf/qastream1",
+    "dolbyio://sjf6bf/qastream1",
+    "dolbyio://sjf6bf/qastream1",
+    "dolbyio://sjf6bf/qastream1"
+  ]
+}
