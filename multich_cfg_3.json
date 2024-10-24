@@ -1,0 +1,10 @@
+{
+  "name": "15",
+  "desc": "Quad Split Channel",
+  "url": [
+    "dolbyio://PZdnQH/single1080p50fps",
+    "dolbyio://PZdnQH/single1080p50fps",
+    "dolbyio://PZdnQH/single1080p50fps",
+    "dolbyio://PZdnQH/single1080p50fps"
+  ]
+}
